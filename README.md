@@ -19,9 +19,8 @@ docker run -d -p 8088:3000 --name welcome-to-docker welcome-to-docker
 ```
 Open `http://localhost:8088` in your browser.
 
-#Important Notice
-
- ## __[Docker-Get-started](https://github.com/docker/welcome-to-docker)__ - The reasoces used i was able to get the from the link connected to the clickable text at the begining of this point.
+# Important Notice
+ - __[Docker-Get-started](https://github.com/docker/welcome-to-docker)__ - The reasoces used i was able to get the from the link connected to the clickable text at the begining of this point.
  >>To clone the repository use the following code:
  ``` Dockerfile
     git clone https://github.com/docker/welcome-to-docker
